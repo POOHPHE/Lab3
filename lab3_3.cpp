@@ -3,7 +3,7 @@ using namespace std;
 int main(){
 	int starto = 6;
 	double sum=0;
-	while(starto<19){
+	while(starto<20){
 		sum+=1.0/starto;
 		starto++;
 	}
